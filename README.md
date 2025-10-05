@@ -9,8 +9,8 @@ and effectively support cross-functional teams by transforming complex data into
 
 CORE SKILLS & TOOLS
 
-* Data Analytics & Visualization: Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn
-* Programming & Data Processing: Python, Pandas, Numpy, SQL
+• Data Analytics & Visualization: Power BI, Tableau, Advanced Excel, Matplotlib, Seaborn
+• Programming & Data Processing: Python, Pandas, Numpy, SQL
 •	CRM Administration: Salesforce, Microsoft Dynamics, User Profiles, Custom Objects
 •	Data Operations: Data Cleaning, Data Loader, Data Migration, Data Quality Assurance
 •	Statistical Methods: Hypothesis Testing, Confidence Intervals
