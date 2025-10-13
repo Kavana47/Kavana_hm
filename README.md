@@ -21,3 +21,6 @@ CORE SKILLS & TOOLS
 
 •	Business Acumen: Marketing Analytics, Sales Enablement, Campaign Reporting
 
+SQL Project Link : https://github.com/Kavana47/Kavana_SQL_Project/tree/main
+Data Visualization Project using Power BI Link : 
+Data Analysis using Pandas and Numpy : 
